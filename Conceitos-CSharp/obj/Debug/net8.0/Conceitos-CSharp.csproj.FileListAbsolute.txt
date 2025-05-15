@@ -1,0 +1,14 @@
+C:\Users\julia.gasantos\OneDrive - SENAC - SP\Documentos\dev\Conceitos-CSharp\Conceitos-CSharp\bin\Debug\net8.0\Conceitos-CSharp.exe
+C:\Users\julia.gasantos\OneDrive - SENAC - SP\Documentos\dev\Conceitos-CSharp\Conceitos-CSharp\bin\Debug\net8.0\Conceitos-CSharp.deps.json
+C:\Users\julia.gasantos\OneDrive - SENAC - SP\Documentos\dev\Conceitos-CSharp\Conceitos-CSharp\bin\Debug\net8.0\Conceitos-CSharp.runtimeconfig.json
+C:\Users\julia.gasantos\OneDrive - SENAC - SP\Documentos\dev\Conceitos-CSharp\Conceitos-CSharp\bin\Debug\net8.0\Conceitos-CSharp.dll
+C:\Users\julia.gasantos\OneDrive - SENAC - SP\Documentos\dev\Conceitos-CSharp\Conceitos-CSharp\bin\Debug\net8.0\Conceitos-CSharp.pdb
+C:\Users\julia.gasantos\OneDrive - SENAC - SP\Documentos\dev\Conceitos-CSharp\Conceitos-CSharp\obj\Debug\net8.0\Conceitos-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia.gasantos\OneDrive - SENAC - SP\Documentos\dev\Conceitos-CSharp\Conceitos-CSharp\obj\Debug\net8.0\Conceitos-CSharp.AssemblyInfoInputs.cache
+C:\Users\julia.gasantos\OneDrive - SENAC - SP\Documentos\dev\Conceitos-CSharp\Conceitos-CSharp\obj\Debug\net8.0\Conceitos-CSharp.AssemblyInfo.cs
+C:\Users\julia.gasantos\OneDrive - SENAC - SP\Documentos\dev\Conceitos-CSharp\Conceitos-CSharp\obj\Debug\net8.0\Conceitos-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\julia.gasantos\OneDrive - SENAC - SP\Documentos\dev\Conceitos-CSharp\Conceitos-CSharp\obj\Debug\net8.0\Conceitos-CSharp.dll
+C:\Users\julia.gasantos\OneDrive - SENAC - SP\Documentos\dev\Conceitos-CSharp\Conceitos-CSharp\obj\Debug\net8.0\refint\Conceitos-CSharp.dll
+C:\Users\julia.gasantos\OneDrive - SENAC - SP\Documentos\dev\Conceitos-CSharp\Conceitos-CSharp\obj\Debug\net8.0\Conceitos-CSharp.pdb
+C:\Users\julia.gasantos\OneDrive - SENAC - SP\Documentos\dev\Conceitos-CSharp\Conceitos-CSharp\obj\Debug\net8.0\Conceitos-CSharp.genruntimeconfig.cache
+C:\Users\julia.gasantos\OneDrive - SENAC - SP\Documentos\dev\Conceitos-CSharp\Conceitos-CSharp\obj\Debug\net8.0\ref\Conceitos-CSharp.dll
