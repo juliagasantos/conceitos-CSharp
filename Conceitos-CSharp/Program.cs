@@ -24,3 +24,4 @@ var boleana = true;
 Console.WriteLine("Nome: "+ nome);
 Console.WriteLine($"Nome: {nome}");
 Console.WriteLine($"Idade: {idade}");
+
